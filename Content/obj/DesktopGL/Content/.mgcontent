@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/0.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/1.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/2.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/3.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/4.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/5.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/6.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/7.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/8.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/9.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/background-day.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/background-night.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/base.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/bluebird_spritesheet.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/bluebird-downflap.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/bluebird-midflap.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/bluebird-upflap.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/Button.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/Font.spritefont</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/gameover.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/message.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/pipe-green.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/pipe-red.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/redbird-downflap.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/redbird-midflap.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/redbird-upflap.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/yellowbird-downflap.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/yellowbird-midflap.png</File>
+    <File>C:/Users/Bach-An/Desktop/Work/FlappyBird/FlappyBird/Content/yellowbird-upflap.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
